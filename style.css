@@ -84,7 +84,7 @@ p {
 .meny__wraper:hover .meny__text {
   visibility: visible;
   padding: 30px;  
-  height: 500px;
+  height: 200px;
 }
 
 
