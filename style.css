@@ -76,6 +76,8 @@ p {
   text-align: center;
   height: 0;
   visibility: hidden;
+  background-color: #0033ff;
+  color: #fff;
 }
 
 .meny__wraper:hover .meny__text {
