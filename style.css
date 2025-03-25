@@ -78,13 +78,13 @@ p {
   visibility: hidden;
   background-color: #0033ff;
   color: #fff;
-  height: 500px;
+
 }
 
 .meny__wraper:hover .meny__text {
-  height: 30px;
   visibility: visible;
-  padding: 30px;
+  padding: 30px;  
+  height: 500px;
 }
 
 
