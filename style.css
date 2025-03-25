@@ -78,6 +78,7 @@ p {
   visibility: hidden;
   background-color: #0033ff;
   color: #fff;
+  height: 500px;
 }
 
 .meny__wraper:hover .meny__text {
